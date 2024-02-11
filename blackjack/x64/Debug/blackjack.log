@@ -1,0 +1,9 @@
+﻿  blackjack.cpp
+E:\M5\C++\Practica3M5\blackjack\blackjack\blackjack.cpp(183,30): warning C4553: "==": el resultado de la expresión no se usa. ¿Quiso decir "="?
+E:\M5\C++\Practica3M5\blackjack\blackjack\blackjack.cpp(340,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+E:\M5\C++\Practica3M5\blackjack\blackjack\blackjack.cpp(85): warning C4715: 'puttingSuit': no todas las rutas de acceso de control devuelven un valor
+E:\M5\C++\Practica3M5\blackjack\blackjack\blackjack.cpp(69): warning C4715: 'aceCard': no todas las rutas de acceso de control devuelven un valor
+E:\M5\C++\Practica3M5\blackjack\blackjack\blackjack.cpp(98): warning C4715: 'assignRank': no todas las rutas de acceso de control devuelven un valor
+E:\M5\C++\Practica3M5\blackjack\blackjack\blackjack.cpp(121): warning C4715: 'intToFig': no todas las rutas de acceso de control devuelven un valor
+E:\M5\C++\Practica3M5\blackjack\blackjack\blackjack.cpp(292): warning C4715: 'drawAnother': no todas las rutas de acceso de control devuelven un valor
+  blackjack.vcxproj -> E:\M5\C++\Practica3M5\blackjack\x64\Debug\blackjack.exe
